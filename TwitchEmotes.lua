@@ -3549,6 +3549,7 @@ Emoticons_Settings={
 	["wixWerio"]="Interface\\AddOns\\TwitchEmotes\\witwix\\wixWerio.tga:28:28",
 	["wixZaldo"]="Interface\\AddOns\\TwitchEmotes\\witwix\\wixZaldo.tga:28:28",
 	["ParkourDin"]="Interface\\AddOns\\TwitchEmotes\\ParkourDin\\ParkourDin.tga:32:32",
+	["Crabtos"]="Interface\\AddOns\\TwitchEmotes\\Zaitos\\Crabtos.tga:40:40",
   };
   local emoticons={
 	-- A_Seagull
@@ -7309,6 +7310,7 @@ Emoticons_Settings={
 	["wixWerio"]="wixWerio",
 	["wixZaldo"]="wixZaldo",
 	["ParkourDin"]="ParkourDin",
+	["Crabtos"]="Crabtos",
   };
   local dropdown_options={
   
